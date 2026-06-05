@@ -3,13 +3,11 @@
 ## Authors
 **Author 1:**
 Name: Ananyaa Mylsamy  
-Email: mylsamy.a@northeastern.edu  
-NUID: 002022427
+Email: mylsamy.a@northeastern.edu
 
 **Author 2:**
 Name: Manasha Sekar  
-Email: sekar.ma@northeastern.edu  
-NUID: 002711528
+Email: sekar.ma@northeastern.edu
 
 ## Web Development 
 Course link: https://northeastern.instructure.com/courses/226004
